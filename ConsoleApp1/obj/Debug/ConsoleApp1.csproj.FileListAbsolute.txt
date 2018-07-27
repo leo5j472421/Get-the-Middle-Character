@@ -1,0 +1,6 @@
+C:\projects\kata\Get the Middle Character\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\projects\kata\Get the Middle Character\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\projects\kata\Get the Middle Character\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\projects\kata\Get the Middle Character\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\projects\kata\Get the Middle Character\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\projects\kata\Get the Middle Character\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
